@@ -1,0 +1,10 @@
+{
+  "name": "STREET KINGS: UNLIMITED",
+  "description": "Open-world 3D driving simulator with realistic vehicle physics, street racing, drifting, car customization, police pursuits, property empire, and an in-car radio with YouTube support.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
